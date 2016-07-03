@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">DesireList</string>
+    <string name="desire">Desire</string>
+    <string name="task">Task</string>
+    <string name="todo">To Do</string>
+    <string name="done">Done</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="author">Keep Working!</string>
+    <string name="nav_exit">Exit</string>
+    <string name="nav_head_others">Others</string>
+    <string name="nav_about">About</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_guide">Guide</string>
+    <string name="author_author">Author: Addi Cheung</string>
+    <string name="nav_profile">Profile</string>
+    <string name="about">关于(About):\n\nAndroid 项目 DesireList</string>
+    <string name="about_author">作者(Author):\n\n SCNU XTEAM</string>
+    <string name="about_github">Github: https://github.com/DesireList</string>
+    <string name="about_version">Version 1.0</string>
+    <string name="about_blog">Blog: XXXXXX</string>
+    <string name="dialogitle">Add Task Or Desire</string>
+    <string name="dialogtitle">Add Task Or Desire</string>
+    <string name="nothing">Press the yellow button to add...</string>
+    <string name="profile_bottom">No Pain No Gain !</string>
+    <string name="jieshao">By using this app you can easily improve self control ability.
+    Because in this app you can add task or desire to yourslf.And by doning task you can earn points
+        which can be used to satisfy your desire.
+    </string>
+    <string name="howtouse_detail">you can press the float action button to add  task or desire \n</string>
+    <string name="howtouse_detail2">Then you can add task or desire</string>
+    <string name="howtouse_detail3">You can open the left drawer to go to see your profile,guidance,share the app or exit</string>
+    <string name="howtouse_detail4">At last you can scroll the tap to see the things to do or done.In the To Do tab you can press the tick and that means you finish this thing</string>
+    <string name="nav_showguide">how to use?</string>
+    <string name="nav_share">Share</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="type_dialog">Type:</string>
+    <string name="point_dialog">Points:</string>
+    <string name="date_dialog">Date:</string>
+    <string name="hint">Detail</string>
+    <string name="date">Date</string>
+    <string name="total_task">Total Task</string>
+    <string name="total_desire">Total Desire</string>
+    <string name="snack_bar">Press back again to exit</string>
+    <string name="left_points">Left Points</string>
+    <string name="earn_points">Earn Points</string>
+    <string name="cost_points">Cost Points</string>
+</resources>
